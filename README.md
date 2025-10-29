@@ -1,3 +1,3 @@
 # jani-project
 
-The version of this repository is v1.0
+This is a course about git and github
